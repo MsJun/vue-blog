@@ -15,7 +15,7 @@
 
 【后端及数据库】
 
-- **firebase**：利用 firebase 储存数据 由 Google 提供支持https://firebase.google.cn/
+- **firebase**：利用 firebase 储存数据 由 Google 提供支持（所以需要挂载vpn数据才能显示）https://firebase.google.cn/  
 【自动化构建及其他工具】
 
 - **vue-cli**：Vue 脚手架工具，快速初始化项目代码
