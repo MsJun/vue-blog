@@ -1,6 +1,6 @@
 # vue-blog
 
-> AVue.js博客
+> Vue2.0-Vue.js博客
 
 ## Build Setup
 
